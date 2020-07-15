@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+
+[![My latest Youtube video](https://img.youtube.com/vi/uuXxomVFbC8/0.jpg)](https://www.youtube.com/watch?v=uuXxomVFbC8)
 
 <!--
 **kuomo/kuomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
